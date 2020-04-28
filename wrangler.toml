@@ -1,0 +1,6 @@
+name = "vigneshcflsub"
+type = "javascript"
+account_id = "95c49dd1a83bccdc710876376fd1f1de"
+workers_dev = true
+route = ""
+zone_id = ""
